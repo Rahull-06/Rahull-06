@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Rahul 👋
 
-<!--
-**Rahull-06/Rahull-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year CSE Student  
+💻 Java & MERN Stack Developer | DSA Enthusiast  
+🚀 Building real-world web applications  
+🎯 Open to Internships & Full-time Roles  
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+Java, JavaScript, React, Node.js, Express, MongoDB, MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Featured Projects
+- Job Tracker MERN App  
+- Privacy-First Health System (Blockchain + AI)  
+- Fake News Detection (Machine Learning)
+
+### 📫 Connect with me
+LinkedIn: https://linkedin.com/in/rahullrathod06 
+LeetCode: https://leetcode.com/u/rahull-06/
