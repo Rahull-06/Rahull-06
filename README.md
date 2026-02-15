@@ -15,8 +15,14 @@ Currently, I’m working on production-level MERN applications and strengthening
 A full-stack MERN application that helps users track job applications efficiently, manage statuses, and receive AI-powered insights to improve application success.
 
 **Tech Used:** React, Node.js, Express.js, MongoDB, JWT, OpenAI API  
-🔗 Repository: https://github.com/Rahull-06  
+🔗 Repository: https://github.com/Rahull-06/Job-Tracker-Project 
 🔗 Live Demo: https://job-tracker-project1.vercel.app
+
+
+## 🌐 Socials
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahullrathod06@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahullrathod06)
+
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Rahull-06&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -26,9 +32,6 @@ A full-stack MERN application that helps users track job applications efficientl
 ---
 [![](https://visitcount.itsvg.in/api?id=Rahull-06&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌐 Socials
-- 📧 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahullrathod06@gmail.com) 
-- 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahullrathod06)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
